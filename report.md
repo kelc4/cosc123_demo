@@ -37,6 +37,6 @@ Here is a list of lists
 
 This is a link
 
-[Google] {www.google.ca}
+[Google] (www.google.ca)
 
 ~~This is a strikethrough~~
